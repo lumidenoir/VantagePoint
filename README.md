@@ -4,11 +4,13 @@ A professional-grade News Intelligence & Sentiment Analysis platform built with 
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=zE2ialbsru4">
+    <img src="https://img.shields.io/badge/YouTube-Video_Demo-red?style=for-the-badge&logo=youtube" alt="Youtube Badge">
+    <br>
     <img src="https://img.youtube.com/vi/zE2ialbsru4/maxresdefault.jpg" alt="VantagePoint Demo Video" width="80%">
   </a>
 </div>
 
-## 📸 Visual Overview
+## Visual Overview
 
 | Dashboard Overview | Priority Matrix |
 | :---: | :---: |
