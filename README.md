@@ -3,7 +3,9 @@
 A professional-grade News Intelligence & Sentiment Analysis platform built with Streamlit, Spacy, and HuggingFace Transformers. This dashboard transforms raw news data into actionable insights through advanced NLP and interactive visualizations.
 
 <div align="center">
-  <video src="https://raw.githubusercontent.com/lumidenoir/VantagePoint/main/assets/demo.mp4" width="100%" controls></video>
+  <a href="https://www.youtube.com/watch?v=zE2ialbsru4">
+    <img src="https://img.youtube.com/vi/zE2ialbsru4/maxresdefault.jpg" alt="VantagePoint Demo Video" width="80%">
+  </a>
 </div>
 
 ## 📸 Visual Overview
