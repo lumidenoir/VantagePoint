@@ -1,0 +1,19 @@
+[project]
+name = "VantagePoint"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "matplotlib>=3.10.9",
+    "newsapi-python>=0.2.7",
+    "ntscraper>=0.4.0",
+    "pandas>=3.0.2",
+    "plotly>=6.7.0",
+    "scipy>=1.17.1",
+    "spacy>=3.8.14",
+    "streamlit>=1.57.0",
+    "torch>=2.11.0",
+    "torchvision>=0.26.0",
+    "transformers>=5.7.0",
+]
